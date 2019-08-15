@@ -1,4 +1,3 @@
-remote_theme: ariestiyansyah/naringu
 plugins:
   - jekyll-relative-links
 relative_links:
