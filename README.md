@@ -2,6 +2,6 @@
 
 aaaa
 
-##__Posts__
+## __Posts__
 
 * [Test](posts/test.md)
