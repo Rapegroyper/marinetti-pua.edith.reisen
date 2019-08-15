@@ -1,3 +1,7 @@
-testsdf
+## Test
 
-* (Test)[posts/test.md]
+aaaa
+
+##__Posts__
+
+* [Test](posts/test.md)
