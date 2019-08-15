@@ -1,7 +1,7 @@
-## Test
+# Test
 
 aaaa
 
-## __Posts__
+## Posts
 
 * [Test](posts/test.md)
