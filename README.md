@@ -1,7 +1,6 @@
-# Test
+# How to Seduce Women
+## F.T. Marinetti, 1916
 
-aaaa
+## Table of Contents
 
-## Posts
-
-* [Test](posts/test.md)
+* [Chapter 1](posts/C1.md)
