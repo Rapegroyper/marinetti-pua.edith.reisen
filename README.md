@@ -3,4 +3,4 @@
 
 ### Table of Contents
 
-* [Chapter 1](posts/C1.html)
+* [Chapter 1](posts/CH1.html)
